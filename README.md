@@ -18,13 +18,13 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-[./assets/images/project-img.png]
+(/assets/images/project-img.png)
 
 
 ### Links
 
-- Solution URL: [https://github.com/molinax/recipe-page]
-- Live Site URL: [https://molinax.github.io/recipe-page/]
+- Solution URL: (https://github.com/molinax/recipe-page)
+- Live Site URL: (https://molinax.github.io/recipe-page/)
 
 ## My process
 
@@ -39,9 +39,9 @@ I start with the HTML using a semantic tags. After that I create the CSS variabl
 
 ### Useful resources
 
-- [https://developer.mozilla.org/es/docs/Web/HTML] - to remember HTML table tags
+- (https://developer.mozilla.org/es/docs/Web/HTML) - to remember HTML table tags
 
 ## Author
 
-- Frontend Mentor - [https://www.frontendmentor.io/profile/molinax]
+- Frontend Mentor - (https://www.frontendmentor.io/profile/molinax)
 
